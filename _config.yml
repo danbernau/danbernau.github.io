@@ -1,27 +1,32 @@
 # Site settings
 title: Daniel Bernau
-email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-   Hi, I'm Daniel Bernau, a Privacy Engineer and Researcher. 
-   I'm working on differential privacy, anonymization in machine learning and technical data protection.
-#  Write an awesome description for your new site here. You can edit this
-#  line in _config.yml. It will appear in your document head meta (for
-#  Google search results) and in your feed.xml site description.
+ Hi, I'm Daniel Bernau, a Privacy Engineer and Researcher. I'm working on differential privacy, anonymization in machine learning and technical data protection.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.danbernau.org" # the base hostname & protocol for your site
-github_username:  danbernau
-linkedin: daniel-bernau-a17b6373
-author: "Daniel Bernau"
+github_username: danbernau
+linkedin_username: daniel-bernau-a17b6373
+
 # Build settings
 markdown: kramdown
 
 # Other options
 permalink: blog/:year/:month/:title
-job.title: "PhD Candidate"
+jobtitle: "PhD Candidate"
 excerpt_separator: "<!--more-->"
 
 # SEO stuff
- google_author: "Daniel Bernau"
- google_site_verification: "oJo1u24MPnqheoz4KrET2L8mUndG6fmZzdtcQux8Zdw"
- google_analytics: "UA-101942087-1"
+google_author: "Daniel Bernau"
+google_site_verification: "oJo1u24MPnqheoz4KrET2L8mUndG6fmZzdtcQux8Zdw"
+google_analytics: "UA-101942087-1"
 # bing_webmastertools_id: ""
+gems:
+ - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+ - jekyll-seo-tag # Make sure the website gains visibility
+ - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem  
+exclude:
+ - Gemfile
+ - Gemfile.lock
+ - LICENSE
+ - README.md
+ - CNAME
