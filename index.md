@@ -60,19 +60,12 @@ while(x=eval(x));
 
 ## About Me
 <!---<a href="http://www.ucsc.edu/" target="_blank"><img src="images/ucsc.png" alt="UCSC" style="width:275px;" align="right"></a>-->
-<div align="justify" style="max-width:600px">
-I'm a computer scientist and privacy researcher at <a href="https://icn.sap.com/" target="_blank">SAP</a> in Karlsruhe, Germany. I hold a pan-european <a href="https://eit.europa.eu/" target="_blank">EIT</a> master's degree from <a href="http://www.tu-berlin.de" target="_blank">Technical University of Berlin</a> and <a href="https://www.univ-rennes1.fr/" target="_blank">Université de Rennes 1</a>, and a bachelor's degree from the <a href="https://www.hs-lu.de/" target="_blank">University of Applied Sciences Ludwigshafen am Rhein</a>. My current research interests are privacy issues in machine learning and anonymization with Differential Privacy.
-</div>
-
-<!--Currently, I'm being advised by <a href="https://getoor.soe.ucsc.edu/" target="_blank">Prof. Lise Getoor</a> as a member of the <a href="https://linqs.soe.ucsc.edu/" target="_blank">LINQS</a> group at <em><a class="tosu" href="http://www.ucsc.edu/" target="_blank">UC Santa Cruz</a></em>. During 2015-2016 I worked on predictive healthcare at Xerox Research Centre India. I graduated from <em><a class="tosu" href="http://manipal.edu/mu.html" target="_blank">Manipal Institute of Technology, Manipal</a></em> with a B.Tech in Computer Science and Engineering in May, 2015. While there, I was actively involved with the IEEE Student Branch, Manipal and served as its Techincal Secretary during 2013-14.</p>-->
-
-
+<p align="justify" style="max-width:600px">
+I'm a computer scientist and privacy researcher at <a href="https://icn.sap.com/" target="_blank">SAP</a> in Karlsruhe, Germany. I hold a pan-european <a href="https://eit.europa.eu/" target="_blank">EIT</a> master's degree from <a href="http://www.tu-berlin.de" target="_blank">Technical University of Berlin</a> and <a href="https://www.univ-rennes1.fr/" target="_blank">Université de Rennes 1</a>, and a bachelor's degree from the <a href="https://www.hs-lu.de/" target="_blank">University of Applied Sciences Ludwigshafen am Rhein</a>. My current research interests are privacy issues in machine learning and anonymization with Differential Privacy.<br>
+</p>
 <!---## Research Interests-->
 <!---<p align="justify" style="max-width:600px">
-My research focuses on mining relationships between events and temporal expressions from raw text data. More broadly, my interests lie at the intersection of Statistical Relational Learning, Natural Language Processing, and Machine Learning. Find more about the work I've done on my  <a href="/research/" target="_blank">research page</a>.
 </p>-->
-<!-- <center> <em><a class="tosu"> Scroll down for news! </a></em></center> -->
-
 ## Publications
 <p align="justify" style="max-width:600px">
 
@@ -102,22 +95,3 @@ Talk: Differential Privacy in Enterprise Use Cases<br>
 		<li><a href="http://www.escudocloud.eu/" target="_blank">ESCUDO-CLOUD </a>(EU H2020 2015-201)</li> 
 	</ul>
 </p>
-<!---<table style="white-space: nowrap;">
-<tr>
-<td width="75"><b>Feb, 17'</b></td>
-<td>Attending <a href="https://www.aaai.org/Conferences/AAAI/aaai17.php" target="_b">AAAI, 2017</a></td>
-</tr>
-<tr>
-<td><b>Nov, 16'</b></td>
-<td>TAing <a href="https://classes.soe.ucsc.edu/cmps140/Winter17/" target="_blank">CMPS 140</a> in Winter, 17</td>
-</tr>
-<tr>
-<td><b>Feb, 16'</b></td>
-<td>Attending UC Santa Cruz starting Fall, 16</td>
-</tr>
-<tr>
-<td><b>Older</b></td>
-<td><a href='news-archive' target="_blank">Archive</a></td>
-</tr>
-</table> -->
-
