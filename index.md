@@ -7,6 +7,8 @@ layout: page
 
 <!---{% include image.html url="/images/dan.jpg" caption="Daniel." width=300 align="center" %}-->
 ## Contact
+<p align="justify" style="max-width:600px">
+
 <!--- <em>Curriculum Vitae: </em><a href="/files/CV_new.pdf" target="_blank">PDF</a>  <small>(June, 2017)</small> <br> -->
 <em>E: </em>
 <script type="text/javascript">
@@ -22,7 +24,7 @@ var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
 while(x=eval(x));
 //-->
 //]]>
-</script>
+</script><br>
 
 <em>E: </em>
 <script type="text/javascript">
@@ -42,7 +44,7 @@ var x="function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
 while(x=eval(x));
 //-->
 //]]>
-</script>
+</script><br>
 
 
 <p><a target="_blank" href="https://github.com/{{ site.github_username }}"><span class="icon icon--github"><svg viewBox="0 0 16 16">
@@ -52,6 +54,8 @@ while(x=eval(x));
 <a target="_blank" href="https://www.linkedin.com/in/daniel-bernau-a17b6373"><span class="icon icon--linkedin"><svg width="1792" height="1792" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M477 625v991h-330v-991h330zm21-306q1 73-50.5 122t-135.5 49h-2q-82 0-132-49t-50-122q0-74 51.5-122.5t134.5-48.5 133 48.5 51 122.5zm1166 729v568h-329v-530q0-105-40.5-164.5t-126.5-59.5q-63 0-105.5 34.5t-63.5 85.5q-11 30-11 81v553h-329q2-399 2-647t-1-296l-1-48h329v144h-2q20-32 41-56t56.5-52 87-43.5 114.5-15.5q171 0 275 113.5t104 332.5z"/></svg></span></a> |
 
 <a target="_blank" href="https://www.xing.com/profile/Daniel_Bernau"><span class="icon icon--github"><svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M12.126 0c-.345 0-.494.217-.618.44 0 0-4.97 8.816-5.135 9.105.01.016 3.28 6.015 3.28 6.015.113.205.29.44.644.44H12.6c.14 0 .25-.052.308-.147.06-.1.06-.23-.005-.357L9.65 9.552c-.003-.004-.003-.01 0-.015L14.76.504c.063-.128.064-.258.004-.357-.06-.095-.168-.147-.307-.147h-2.33zM2.432 3.16c-.14 0-.256.05-.315.144-.06.1-.052.226.013.354l1.56 2.7c.003.006.003.01 0 .014L1.24 10.7c-.065.126-.062.254 0 .353.057.095.16.157.3.157h2.308c.345 0 .51-.232.63-.445l2.49-4.406-1.586-2.77c-.115-.21-.29-.44-.642-.44H2.432z"/></svg></span></a>
+</p>
+
 </p>
 <!--- <em>Office: </em>Engineering 2, 485<br> -->
 <!-- <p><a href="http://doodle.com/dhawaljoh" target="_blank">Meet me!</a> | <a href="http://flask.io/yoUm1" target="_blank">Assign me a task!</a> (please let me know you've added something!)</p> -->
@@ -94,6 +98,6 @@ Talk: Differential Privacy in Enterprise Use Cases<br>
 <p align="justify" style="max-width:600px">
 	<ul>
 		<li><a href="https://panoramix-project.eu/" target="_blank">PANORAMIX </a>(EU H2020 2015-2018)</li>
-		<li><a href="http://www.escudocloud.eu/" target="_blank">ESCUDO-CLOUD </a>(EU H2020 2015-201)</li> 
+		<li><a href="http://www.escudocloud.eu/" target="_blank">ESCUDO-CLOUD </a>(EU H2020 2015-2018)</li> 
 	</ul>
 </p>
