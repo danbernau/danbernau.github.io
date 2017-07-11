@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% include image.html url="/images/dan.jpg" width=275 align="right" %}
+{% include image.html url="/images/dan.jpg" width=275 align="right" alt="Daniel Bernau"%}
 <!---# Daniel Bernau  -->
 
 <!---{% include image.html url="/images/dan.jpg" caption="Daniel." width=300 align="center" %}-->
