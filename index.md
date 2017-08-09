@@ -2,7 +2,8 @@
 layout: page
 ---
 
-{%include image.html url="/images/dan.jpg" width=275 align="right" caption="Daniel Bernau"%}
+{%include image.html url="/images/dan.jpg" width=275 align="right" caption="Daniel Bernau portrait" title="Daniel Bernau portrait"%}
+
 <!---# Daniel Bernau  --> 
 <!---{% include image.html url="/images/dan.jpg" caption="Daniel." width=300 align="center" %}-->
 ## Contact
