@@ -73,6 +73,10 @@ I'm a computer scientist and privacy researcher at <a href="https://icn.sap.com/
 ## Publications
 <p align="justify" style="max-width:600px">
 
+G. Eibl, K. Bao, P. Grassal, D.Bernau, H. Schmeck <br>
+<a href="https://energyinformatics.springeropen.com/articles/10.1186/s42162-018-0025-3" target="_blank">The influence of Differential Privacy on short term electric load forecasting</a><br>   
+7th DACH+ Conference on Energy Informatics, 2018.<br>
+
 J. Boehler, D. Bernau, F. Kerschbaum <br>
 <a href="http://www.fkerschbaum.org/dbsec17b.pdf" target="_blank">Privacy-Preserving Outlier Detection for Data Streams</a><br>   
 31st IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSEC), 2017.<br>
@@ -81,21 +85,19 @@ J. Boehler, D. Bernau, F. Kerschbaum <br>
 ## Invited Talks
 <p align="justify" style="max-width:600px">
 
+Hochschule Ludwigshafen, 2018.<br>  
+Lecturer for Security and Privacy<br>
+<br>
 SAP Security Summit, 2017.<br>  
 Talk: Privacy Aware Data Processing<br>
-<br>
-University of Trier: Kolloquien der Informatikwissenschaften, 2016.<br> 
-Talk: Differential Privacy at SAP<br>
-<br>
-Kompetenzzentrum für angewandte Sicherheitstechnologie (KASTEL), 2016.<br>  
-Talk: Differential Privacy in Enterprise Use Cases<br>
 <br>
 
 </p>
 ## Funding
 <p align="justify" style="max-width:600px">
 	<ul>
-		<li><a href="https://panoramix-project.eu/" target="_blank">PANORAMIX </a>(EU H2020 2015-2018)</li>
+		<li><a href="https://panoramix-project.eu/" target="_blank">MOSAICROWN </a>(EU H2020 2015-2018)</li>
+		<li><a href="https://mosaicrown.eu/" target="_blank">PANORAMIX </a>(EU H2020 2015-2019)</li>
 		<li><a href="http://www.escudocloud.eu/" target="_blank">ESCUDO-CLOUD </a>(EU H2020 2015-2018)</li> 
 	</ul>
 </p>
