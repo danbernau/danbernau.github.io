@@ -85,7 +85,7 @@ J. Boehler, D. Bernau, F. Kerschbaum <br>
 ## Invited Talks
 <p align="justify" style="max-width:600px">
 
-Hochschule Ludwigshafen, 2018.<br>  
+University of Applied Sciences Ludwigshafen, 2018.<br>  
 Lecturer for Security and Privacy<br>
 <br>
 SAP Security Summit, 2017.<br>  
