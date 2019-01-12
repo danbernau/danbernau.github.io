@@ -96,7 +96,7 @@ Talk: Privacy Aware Data Processing<br>
 ## Funding
 <p align="justify" style="max-width:600px">
 	<ul>
-		<li><a href="https://panoramix-project.eu/" target="_blank">MOSAICROWN </a>(EU H2020 2019-2020)</li>
+		<li><a href="https://mosaicrown.eu/" target="_blank">MOSAICROWN </a>(EU H2020 2019-2020)</li>
 		<li><a href="https://mosaicrown.eu/" target="_blank">PANORAMIX </a>(EU H2020 2015-2019)</li>
 		<li><a href="http://www.escudocloud.eu/" target="_blank">ESCUDO-CLOUD </a>(EU H2020 2015-2018)</li> 
 	</ul>
