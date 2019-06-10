@@ -73,6 +73,11 @@ I'm a computer scientist and privacy researcher at <a href="https://icn.sap.com/
 ## Publications
 <p align="justify" style="max-width:600px">
 
+B. Hilprecht, M. Härterich, D. Bernau <br>
+<a href="https://arxiv.org/abs/1906.03006" target="_blank">Monte Carlo and Reconstruction Attacks against Generative Models</a><br>   
+Privacy Enhancing Technologies Symposium (PETS), 2019.<br>
+
+
 G. Eibl, K. Bao, P. Grassal, D.Bernau, H. Schmeck <br>
 <a href="https://energyinformatics.springeropen.com/articles/10.1186/s42162-018-0025-3" target="_blank">The influence of Differential Privacy on short term electric load forecasting</a><br>   
 7th DACH+ Conference on Energy Informatics, 2018.<br>
@@ -85,11 +90,14 @@ J. Boehler, D. Bernau, F. Kerschbaum <br>
 ## Invited Talks
 <p align="justify" style="max-width:600px">
 
+SAP Security Expert Summit, 2019.<br>  
+Quantifying model leakage in deep learning with membership inference attacks<br>
+<br>
 University of Applied Sciences Ludwigshafen, 2018.<br>  
 Lecturer for Security and Privacy<br>
 <br>
-SAP Security Summit, 2017.<br>  
-Talk: Privacy Aware Data Processing<br>
+SAP TechEd, 2018.<br>  
+Talk: Data anonymization: unlocking the value in personal data<br>
 <br>
 
 </p>
