@@ -73,10 +73,9 @@ I'm a computer scientist and privacy researcher at <a href="https://icn.sap.com/
 ## Publications
 <p align="justify" style="max-width:600px">
 
-B. Hilprecht, M. Härterich, D. Bernau <br>
+B. Hilprecht, M. Haerterich, D. Bernau <br>
 <a href="https://arxiv.org/abs/1906.03006" target="_blank">Monte Carlo and Reconstruction Attacks against Generative Models</a><br>   
 Privacy Enhancing Technologies Symposium (PETS), 2019.<br>
-
 
 G. Eibl, K. Bao, P. Grassal, D.Bernau, H. Schmeck <br>
 <a href="https://energyinformatics.springeropen.com/articles/10.1186/s42162-018-0025-3" target="_blank">The influence of Differential Privacy on short term electric load forecasting</a><br>   
