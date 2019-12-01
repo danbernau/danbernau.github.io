@@ -89,10 +89,16 @@ J. Boehler, D. Bernau, F. Kerschbaum <br>
 ## Invited Talks
 <p align="justify" style="max-width:600px">
 
+CAST-Workshop hot topic: Künstliche Intelligenz und IT-Sicherheit, 2019<br> 
+Talk: Quantifying and mitigating model leakage in deep learning with membership inference and differential privacy<br>
+<br> 
+SAP TechEd, 2019.<br>  
+Talk: Enabling Privacy-Preserving Enterprise Applications<br>
+<br>
 SAP Security Expert Summit, 2019.<br>  
 Quantifying model leakage in deep learning with membership inference attacks<br>
 <br>
-University of Applied Sciences Ludwigshafen, 2018.<br>  
+University of Applied Sciences Ludwigshafen, 2019.<br>  
 Lecturer for Security and Privacy<br>
 <br>
 SAP TechEd, 2018.<br>  
