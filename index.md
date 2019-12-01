@@ -96,7 +96,7 @@ SAP TechEd, 2019.<br>
 Talk: Enabling Privacy-Preserving Enterprise Applications<br>
 <br>
 SAP Security Expert Summit, 2019.<br>  
-Quantifying model leakage in deep learning with membership inference attacks<br>
+Talk: Quantifying model leakage in deep learning with membership inference attacks<br>
 <br>
 University of Applied Sciences Ludwigshafen, 2019.<br>  
 Lecturer for Security and Privacy<br>
