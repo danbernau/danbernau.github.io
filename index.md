@@ -89,7 +89,7 @@ J. Boehler, D. Bernau, F. Kerschbaum <br>
 ## Invited Talks
 <p align="justify" style="max-width:600px">
 
-CAST-Workshop hot topic: Künstliche Intelligenz und IT-Sicherheit, 2019<br> 
+CAST-Workshop hot topic: K?nstliche Intelligenz und IT-Sicherheit, 2019<br> 
 Talk: Quantifying and mitigating model leakage in deep learning with membership inference and differential privacy<br>
 <br> 
 SAP TechEd, 2019.<br>  
