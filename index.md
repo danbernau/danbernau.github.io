@@ -73,6 +73,10 @@ I'm a computer scientist and privacy researcher at <a href="https://icn.sap.com/
 ## Publications
 <p align="justify" style="max-width:600px">
 
+D. Bernau, J. Robl, P. W. Grassal, S. Schneider, F. Kerschbaum <br>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-81242-3_2" target="_blank">Comparing local and central differential privacy using membership inference attacks</a><br>   
+35th IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSEC), 2021.<br>
+
 B. Hilprecht, M. Haerterich, D. Bernau <br>
 <a href="https://arxiv.org/abs/1906.03006" target="_blank">Monte Carlo and Reconstruction Attacks against Generative Models</a><br>   
 Privacy Enhancing Technologies Symposium (PETS), 2019.<br>
@@ -109,7 +113,7 @@ Talk: Data anonymization: unlocking the value in personal data<br>
 ## Funding
 <p align="justify" style="max-width:600px">
 	<ul>
-		<li><a href="https://mosaicrown.eu/" target="_blank">MOSAICROWN </a>(EU H2020 2019-2020)</li>
+		<li><a href="https://mosaicrown.eu/" target="_blank">MOSAICROWN </a>(EU H2020 2019-2022)</li>
 		<li><a href="https://panoramix-project.eu/" target="_blank">PANORAMIX </a>(EU H2020 2015-2019)</li>
 		<li><a href="http://www.escudocloud.eu/" target="_blank">ESCUDO-CLOUD </a>(EU H2020 2015-2018)</li> 
 	</ul>
