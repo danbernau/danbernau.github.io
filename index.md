@@ -73,6 +73,10 @@ I'm a computer scientist and privacy researcher at <a href="https://icn.sap.com/
 ## Publications
 <p align="justify" style="max-width:600px">
 
+D. Bernau, J. Robl, F. Kerschbaum <br>
+<a href="https://arxiv.org/abs/2204.07877" target="_blank">Assessing Differentially Private Variational Autoencoders under Membership Inference</a><br>   
+36th IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSEC), 2022.<br>
+
 D. Bernau, G. Eibl, P. W. Grassal, H. Keller, F. Kerschbaum <br>
 <a href="https://arxiv.org/abs/2103.02913" target="_blank">Quantifying identifiability to choose and audit epsilon in differentially private deep learning</a><br>   
 48th International Conference on Very Large Data Bases (VLDB), 2022.<br>
