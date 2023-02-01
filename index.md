@@ -2,7 +2,7 @@
 layout: page
 ---
 {%include image.html url="/images/dan.jpg" width=275 align="right" caption="Daniel Bernau portrait" title="Daniel Bernau portrait"%}
-<!---# Daniel Bernau  --> 
+<!---# Dr. Daniel Bernau  --> 
 <!---{% include image.html url="/images/dan.jpg" caption="Daniel." width=300 align="center" %}-->
 ## Contact
 <p align="justify" style="max-width:600px">
@@ -65,7 +65,7 @@ while(x=eval(x));
 ## About Me
 <!---<a href="http://www.ucsc.edu/" target="_blank"><img src="images/ucsc.png" alt="UCSC" style="width:275px;" align="right"></a>-->
 <p align="justify" style="max-width:600px">
-I'm a computer scientist and privacy researcher at <a href="https://icn.sap.com/" target="_blank">SAP</a> in Karlsruhe, Germany. I hold a pan-european <a href="https://eit.europa.eu/" target="_blank">EIT</a> master's degree from <a href="http://www.tu-berlin.de" target="_blank">Technical University of Berlin</a> and <a href="https://www.univ-rennes1.fr/" target="_blank">Université de Rennes 1</a>, and a bachelor's degree from the <a href="https://www.hs-lu.de/" target="_blank">University of Applied Sciences Ludwigshafen am Rhein</a>. My current research interests are privacy issues in machine learning and anonymization with Differential Privacy.<br>
+I'm a security and privacy architect at <a href="https://icn.sap.com/" target="_blank">SAP</a> in Walldorf, Germany. I hold a PhD in information security from the  <a href="https://www.sec.uni-stuttgart.de/" target="_blank">University of Stuttgart</a> and a pan-european <a href="https://eit.europa.eu/" target="_blank">EIT</a> master's degree from <a href="http://www.tu-berlin.de" target="_blank">Technical University of Berlin</a> and <a href="https://www.univ-rennes1.fr/" target="_blank">Université de Rennes 1</a>. My current research interests are privacy enhancing technologies for machine learning and collaborative analytics, particularly anonymization with Differential Privacy.<br>
 </p>
 <!---## Research Interests-->
 <!---<p align="justify" style="max-width:600px">
@@ -122,7 +122,7 @@ Talk: Data anonymization: unlocking the value in personal data<br>
 <p align="justify" style="max-width:600px">
 	<ul>
 		<li><a href="https://mosaicrown.eu/" target="_blank">MOSAICROWN </a>(EU H2020 2019-2022)</li>
-		<li><a href="https://panoramix-project.eu/" target="_blank">PANORAMIX </a>(EU H2020 2015-2019)</li>
-		<li><a href="http://www.escudocloud.eu/" target="_blank">ESCUDO-CLOUD </a>(EU H2020 2015-2018)</li> 
+		<li><a href="https://cordis.europa.eu/project/id/653497" target="_blank">PANORAMIX </a>(EU H2020 2015-2019)</li>
+		<li><a href="https://cordis.europa.eu/project/id/644579/de" target="_blank">ESCUDO-CLOUD </a>(EU H2020 2015-2018)</li> 
 	</ul>
 </p>
